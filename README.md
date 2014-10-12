@@ -1,6 +1,5 @@
 # MegaLotto
 
-TODO: Write a gem description
 
 ## Installation
 
@@ -18,7 +17,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+ Write usage instructions here
 
 ## Contributing
 
