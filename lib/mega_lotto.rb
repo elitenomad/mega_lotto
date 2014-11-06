@@ -1,4 +1,5 @@
 require "mega_lotto/version"
+require "core_ext"
 
 begin
   require "pry"
